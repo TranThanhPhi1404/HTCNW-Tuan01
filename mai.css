@@ -1,7 +1,26 @@
-div {
+#box1 {
     background-color: #ccc;
     width: 315px;
     height: 249px;
     color: #000;
     align-items: center;
+}
+
+#box2 {
+    background-color: rgb(190, 115, 23);
+    width: 900px;
+    height: 400px;
+    color: black;
+    align-items: center;
+}
+#box2 #p1 {
+    text-align: left;
+}
+
+#box2 #p2 {
+    text-align: center;
+}
+
+#box2 #p3 {
+    text-align: right;
 }
