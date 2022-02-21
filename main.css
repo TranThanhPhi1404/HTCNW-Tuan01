@@ -1,0 +1,11 @@
+.box {
+    background-color: #FFCC99;
+    width: 500px;
+    height: 340px;
+    text-align: center;
+}
+
+hr {
+    width: 84%;
+    align: center;
+}
